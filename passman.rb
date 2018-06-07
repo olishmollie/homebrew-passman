@@ -1,8 +1,8 @@
 class Passman < Formula
     desc "A UNIX password manager"
     homepage "https://github.com/olishmollie/passman"
-    url "https://github.com/olishmollie/passman/archive/v0.5.10.tar.gz"
-    sha256 "7d3c2fde93375d33962aa5ddf04c1483ac80ccd07863ea0ebb89c3c4e928fa28"
+    url "https://github.com/olishmollie/passman/archive/v0.5.11.tar.gz"
+    sha256 "d9c2d352f19c81b9f461949f4664880efa285f9b7d4606ed6a65ae296876af2d"
 
     def install
         bin.install "bin/passman"
