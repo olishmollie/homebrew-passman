@@ -2,7 +2,7 @@ class Fig < Formula
     desc "An implementation of a minimal lisp dialect"
     homepage "https://github.com/olishmollie/fig"
     url "https://github.com/olishmollie/fig/archive/v0.3.tar.gz"
-    sha256 "6e144cffaf308b88ca04479cbdc4e06aae90c83e83b4e2b4087a03b63f5b242b"
+    sha256 "30c4c5e60ad55887a54bfd96dea3c01dbcef69fc67b0cf02db10c3e7d8cecda4"
 
     def install
         bin.install "bin/fig"
