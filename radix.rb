@@ -2,7 +2,7 @@ class Radix < Formula
     desc "A command line utility to change bases."
     homepage "https://github.com/olishmollie/radix"
     url "https://github.com/olishmollie/radix/archive/v1.0.0.tar.gz"
-    sha256 "6789da415d575cfa8786390e30a837b9ef45e494046b9cf9e6d8369de8a53adc"
+    sha256 "32064105dd0dd6b100f161ea18c59be5d606ced89c138d2a39c7f9a2a86ceae5"
 
     def install
         bin.install "radix"
